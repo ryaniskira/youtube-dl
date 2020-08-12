@@ -32,8 +32,8 @@ MSO_INFO = {
     },
     'ATTOTT': {
         'name': 'AT&T TV',
-        'username_field': 'userName',
-        'password_field': 'password',
+        'username_field': 'User_ID',
+        'password_field': 'Password',
     },
     'Rogers': {
         'name': 'Rogers',
