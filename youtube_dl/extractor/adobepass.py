@@ -31,7 +31,7 @@ MSO_INFO = {
         'password_field': 'password',
     },
     'ATTOTT': {
-        'name': 'DIRECTV NOW',
+        'name': 'AT&T TV',
         'username_field': 'email',
         'password_field': 'loginpassword',
     },
